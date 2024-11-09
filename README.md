@@ -1,7 +1,7 @@
-Hi, I am Dorathy,
+Hi, I am Dorathy Itsegha,
 I have a degree in Statistics, 
-I'm passionate about data analysis,
-I aim to use my skill to solve real-world problems and contribute to the growth of organizations,
+I'm passionate about data analysis,with proficiency in SQL,Excel,Tableau,Power BI and Python.
+My mission is to leverage on my skill to solve real-world problems and contribute to the growth of organizations,
 I also have a desire to teach and contribute to the growth of a younger generation of successful data analysts.
 
 
